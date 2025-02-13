@@ -87,3 +87,9 @@ I am a Data Scientist | Data Analyst | Trainee Software Engineer <img src="https
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KaviyaSriMuthaiah&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaviyaSriMuthaiah&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+
+### 🏆 Achievements :
+
+Graduated from Bharathiar University as a **Gold Medalist** for **Data Science** with expertise in Machine Learning, NLP, and AI-driven solutions.
