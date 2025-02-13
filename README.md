@@ -1,14 +1,21 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <h1>
-  Hi! I'm Kaviya Sri
+ <h1 style="
+    font-size: 2.5em; 
+    font-weight: bold; 
+    text-align: center; 
+    background: linear-gradient(90deg, #0072ff, #00c6ff); 
+    -webkit-background-clip: text; 
+    -webkit-text-fill-color: transparent;
+    font-family: 'Poppins', sans-serif;">
+  Hi! I'm Kaviya Sri 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
 
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/kaviya-sri-muthaiah/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="LinkedIn" style="max-width: 100%;">
   </a>
 </div>
 
@@ -29,7 +36,21 @@ I am a Data Scientist | Data Analyst | Trainee Software Engineer <img src="https
 
 - 🚀 In my free time, I tackle LeetCode challenges, contribute to open-source AI projects, and stay updated with the latest advancements in AI & data science.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaviya-sri-muthaiah/)
+---
+
+## 📫 How to Reach Me  
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/kaviya-sri-muthaiah/" target="_blank">
+    <img src="https://img.icons8.com/doodle/48/000000/linkedin--v2.png" alt="LinkedIn" style="max-width: 100%;">
+  </a>
+  <a href="https://github.com/KaviyaSriMuthaiah" target="_blank">
+    <img src="https://img.icons8.com/doodle/48/000000/github--v1.png" alt="GitHub" style="max-width: 100%;">
+  </a>
+  <a href="mailto:kaviyasrikaviyasri375@gmail.com">
+    <img src="https://img.icons8.com/doodle/48/000000/gmail-new.png" alt="Email" style="max-width: 100%;">
+  </a>
+</div>
 
 ---
 
