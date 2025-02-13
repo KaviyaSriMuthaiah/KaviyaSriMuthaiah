@@ -26,7 +26,7 @@
 ---
 
 ### :woman_technologist: About Me :
-I am a Data Scientist | Data Analyst | Trainee Software Engineer | Artificial Intelligence <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+I am a Data Scientist | Data Analyst | Trainee Software Engineer | AI Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 - :telescope: AI Developer | Data Scientist – Building intelligent solutions with machine learning and NLP.
 
