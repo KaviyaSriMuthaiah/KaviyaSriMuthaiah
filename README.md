@@ -29,4 +29,4 @@ I am a Data Scientist | Data Analyst | Trainee Software Engineer <img src="https
 
 - 🚀 In my free time, I tackle LeetCode challenges, contribute to open-source AI projects, and stay updated with the latest advancements in AI & data science.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaviya-sri-muthaiah/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/kaviya-sri-muthaiah/)
