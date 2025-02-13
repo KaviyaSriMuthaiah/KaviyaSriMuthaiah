@@ -12,3 +12,21 @@
   </a>
 </div>
 
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### :woman_technologist: About Me :
+I am a Data Scientist | Data Analyst | Trainee Software Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
+- :telescope: AI Developer | Data Scientist – Building intelligent solutions with machine learning and NLP..
+
+- :seedling: Exploring Generative AI, Deep Learning, and MLOps to create impactful AI-driven applications.
+
+- :zap: Passionate about solving complex problems, experimenting with cutting-edge AI models, and optimizing data-driven decision-making.
+
+- 🚀 In my free time, I tackle LeetCode challenges, contribute to open-source AI projects, and stay updated with the latest advancements in AI & data science.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/kaviya-sri-muthaiah)
