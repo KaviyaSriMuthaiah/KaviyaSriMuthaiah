@@ -81,3 +81,7 @@ I am a Data Scientist | Data Analyst | Trainee Software Engineer <img src="https
 </div>
 
 ---
+
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=KaviyaSriMuthaiah&theme=dark&background=000000)](https://git.io/streak-stats)
