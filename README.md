@@ -25,20 +25,19 @@
 
 ---
 
-### :woman_technologist: About Me :
-I am a Data Scientist | Data Analyst | Trainee Software Engineer | AI Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+👩‍💻 **About Me**
 
-- :telescope: AI Developer | Data Scientist – Building intelligent solutions with machine learning and NLP.
+I am a Data Scientist, Data Analyst, Trainee Software Engineer, and AI Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
-- :seedling: Exploring Generative AI, Deep Learning, and MLOps to create impactful AI-driven applications.
+🔹 AI & Data Science Enthusiast – Exploring Generative AI, Deep Learning, and MLOps to develop impactful AI-driven applications.
 
-- :zap: Passionate about solving complex problems, experimenting with cutting-edge AI models, and optimizing data-driven decision-making.
+🔹 Problem Solver – Passionate about tackling complex challenges, optimizing data-driven decisions, and experimenting with cutting-edge AI models.
 
-- 🚀 In my free time, I tackle LeetCode challenges, contribute to open-source AI projects, and stay updated with the latest advancements in AI & data science.
+🔹 Continuous Learner – Actively solving LeetCode challenges, contributing to open-source AI projects, and staying updated with the latest advancements in AI & data science.
 
 ---
 
-## 📫 How to Reach Me  
+## 📫 How to Reach Me :
 
 <div align="center">
   <a href="https://www.linkedin.com/in/kaviya-sri-muthaiah/" target="_blank">
